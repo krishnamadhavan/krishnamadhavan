@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <samp>
+    Hi, I'm Krishna! 👋 <br>
+    🔥 A Full Stack Engineer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: Python, Node, MongoDB, JavaScript, Vue ... <br>
+    :notebook: I’m currently learning React ... 😭  <br>
+    :email:	krishnamadhavan07@gmail.com <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/krishna-madhavan-3a2134131
+  </samp>
+</p>
